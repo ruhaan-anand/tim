@@ -1,4 +1,14 @@
-h1{
-    color:blue;
-    font-family: 'Itim', cursive;
+body{
+    text-align:center;
+}
+#intro{
+    background: linear-gradient(grey,cyan);
+    padding: 50px;
+    height: 720px;
+    display:table;
+    width:100%;
+}
+#intro_inner{
+    display:table-cell;
+    vertical-align: middle;
 }
